@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1872789150:AAFvjTAC0zZz31uGQ-N_vq_zOJ6tCprzuW4"
+    APP_ID = "6303798"
+    API_HASH = "e58bb2c51e054263cd401319b504921f"
+    DATABASE_URL = "postgres://jymylgpamcsdod:8cb5e486a883d73ac5a33edb96c830279e7d2dccde55571bbbebf967e6b32914@ec2-50-17-255-120.compute-1.amazonaws.com:5432/dd8ij3m3o02ud"
+    SUDO_USERS = "852862531" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "t.me/syncodrive2"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
