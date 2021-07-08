@@ -9,11 +9,6 @@ class config:
     G_DRIVE_CLIENT_ID = "976546112296-obc8tjml12hjh9cqh7o1lqptvpj159ra.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "vrkn7US5BIAcBB25gWPr2rBR"
      
-    #Folder Id Of Teamdrive
-    TEAMDRIVE_FOLDER_ID = "1BeM1HZNwmXVHRgWzUz-O4WS7qJHPe7AG"
-    
-    # Id of Team drive 
-    TEAMDRIVE_ID = "0ALxKFav5im3tUk9PVA"
     
 
 
