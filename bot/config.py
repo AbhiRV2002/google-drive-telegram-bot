@@ -6,7 +6,9 @@ class config:
     SUDO_USERS = "852862531" # Sepearted by space.
     SUPPORT_CHAT_LINK = "t.me/syncodrive2"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    
+    G_DRIVE_CLIENT_ID = "976546112296-obc8tjml12hjh9cqh7o1lqptvpj159ra.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "vrkn7US5BIAcBB25gWPr2rBR"
+
 
 class BotCommands:
   Download = ['download', 'dl']
